@@ -47,3 +47,11 @@ Read more about me and follow my activities on my [**MVP profile.**](https://mvp
 Take control of Windows App settings with centralized management through Microsoft Intune.
 {% endupdate %}
 {% endupdates %}
+
+{% updates format="full" %}
+{% update date="2026-11-12" tags="beta" %}
+## Centralized Windows App Management
+
+Take control of Windows App settings with centralized management through Microsoft Intune.
+{% endupdate %}
+{% endupdates %}
