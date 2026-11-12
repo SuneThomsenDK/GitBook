@@ -42,7 +42,7 @@ Read more about me and follow my activities on my [**MVP profile.**](https://mvp
 {% update date="2026-11-12" %}
 ## ![](<.gitbook/assets/Designer (2).png>)
 
-### [Centralized Windows App Management](blog/microsoft-intune/centralized-windows-app-management.md)
+### [Centralized Windows App Management 1](blog/microsoft-intune/centralized-windows-app-management.md)
 
 Take control of Windows App settings with centralized management through Microsoft Intune.
 {% endupdate %}
@@ -52,7 +52,17 @@ Take control of Windows App settings with centralized management through Microso
 {% update date="2026-11-12" %}
 <figure><img src=".gitbook/assets/Designer%20(2).png" alt="Centralized Windows App Management"><figcaption></figcaption></figure>
 
-## [Centralized Windows App Management](blog/microsoft-intune/centralized-windows-app-management.md)
+## [Centralized Windows App Management 2](blog/microsoft-intune/centralized-windows-app-management.md)
+
+Take control of Windows App settings with centralized management through Microsoft Intune.
+{% endupdate %}
+{% endupdates %}
+
+{% updates format="full" %}
+{% update date="2026-11-12" %}
+![](<.gitbook/assets/Designer (2).png>)
+
+### [Centralized Windows App Management 3](blog/microsoft-intune/centralized-windows-app-management.md)
 
 Take control of Windows App settings with centralized management through Microsoft Intune.
 {% endupdate %}
