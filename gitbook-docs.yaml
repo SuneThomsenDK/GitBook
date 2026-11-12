@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: OSDeploy | Sune Thomsen
+  structure:
+    - type: space
+      key: space-1
+      title: OSDeploy | Sune Thomsen
+      path: home
+      default: true
+      content:
+        directory: ./home
