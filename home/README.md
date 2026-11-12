@@ -49,8 +49,10 @@ Take control of Windows App settings with centralized management through Microso
 {% endupdates %}
 
 {% updates format="full" %}
-{% update date="2026-11-12" tags="beta" %}
-## Centralized Windows App Management
+{% update date="2026-11-12" %}
+<figure><img src=".gitbook/assets/Designer%20(2).png" alt="Centralized Windows App Management"><figcaption></figcaption></figure>
+
+## [Centralized Windows App Management](blog/microsoft-intune/centralized-windows-app-management.md)
 
 Take control of Windows App settings with centralized management through Microsoft Intune.
 {% endupdate %}
