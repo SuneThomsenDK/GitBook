@@ -5,11 +5,9 @@ description: 'Last modified: 06-11-2026 1:07 AM'
 # Home
 
 {% hint style="warning" %}
-&#x20;<mark style="color:orange;">**STATUS:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">Pictures are missing on a few blog posts from before June 2022.</mark>
+<mark style="color:orange;">**STATUS:**</mark> <mark style="color:orange;">Pictures are missing on a few blog posts from before June 2022.</mark>
 
-
-
-:construction:  <mark style="color:orange;">A solution is being worked on - please stay tuned!</mark>  :construction:
+:construction: <mark style="color:orange;">A solution is being worked on - please stay tuned!</mark> :construction:
 {% endhint %}
 
 ## About OSDeploy | Sune Thomsen
@@ -39,31 +37,9 @@ Read more about me and follow my activities on my [**MVP profile.**](https://mvp
 ## Latest Posts
 
 {% updates format="full" %}
-{% update date="2026-11-12" %}
-## ![](<.gitbook/assets/Designer (2).png>)
+{% update date="2026-11-13" %}
+## Test 1
 
-### [Centralized Windows App Management 1](blog/microsoft-intune/centralized-windows-app-management.md)
-
-Take control of Windows App settings with centralized management through Microsoft Intune.
-{% endupdate %}
-{% endupdates %}
-
-{% updates format="full" %}
-{% update date="2026-11-12" %}
-<figure><img src=".gitbook/assets/Designer%20(2).png" alt="Centralized Windows App Management"><figcaption></figcaption></figure>
-
-## [Centralized Windows App Management 2](blog/microsoft-intune/centralized-windows-app-management.md)
-
-Take control of Windows App settings with centralized management through Microsoft Intune.
-{% endupdate %}
-{% endupdates %}
-
-{% updates format="full" %}
-{% update date="2026-11-12" %}
-![](<.gitbook/assets/Designer (2).png>)
-
-### [Centralized Windows App Management 3](blog/microsoft-intune/centralized-windows-app-management.md)
-
-Take control of Windows App settings with centralized management through Microsoft Intune.
+This is a test!
 {% endupdate %}
 {% endupdates %}
