@@ -38,11 +38,26 @@ Read more about me and follow my activities on my [**MVP profile.**](https://mvp
 
 {% updates format="full" %}
 {% update date="2026-11-12" %}
+##
 
-<figure><img src=".gitbook/assets/Designer%20(2).png" alt="Centralized Windows App Management"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Designer (2).png" alt="Centralized Windows App Management"><figcaption></figcaption></figure>
 
 ## Centralized Windows App Management
 
 Take control of Windows App settings with centralized management through Microsoft Intune.
+{% endupdate %}
+
+{% update date="2026-11-13" %}
+## Cookie Test ![](https://images.unsplash.com/photo-1597733153203-a54d0fbc47de?crop=entropy\&cs=srgb\&fm=jpg\&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxjb29raWV8ZW58MHx8fHwxNzk0NTU1Mzk0fDA\&ixlib=rb-4.1.0\&q=85)
+
+This is a cookie test!
+{% endupdate %}
+
+{% update date="2026-11-13" %}
+## I love dogs
+
+<figure><img src="https://images.unsplash.com/photo-1543466835-00a7907e9de1?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw4fHxkb2d8ZW58MHx8fHwxNzk0NTU1NTM2fDA&#x26;ixlib=rb-4.1.0&#x26;q=85" alt=""><figcaption></figcaption></figure>
+
+The is the dog test!
 {% endupdate %}
 {% endupdates %}
