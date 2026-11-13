@@ -35,3 +35,14 @@ Read more about me and follow my activities on my [**MVP profile.**](https://mvp
 <figure><img src=".gitbook/assets/image (2).png" alt="" width="375"><figcaption><p>Modern Endpoint Management | Speaker 2022 - 2024</p></figcaption></figure>
 
 ## Latest Posts
+
+{% updates format="full" %}
+{% update date="2026-11-12" %}
+
+<figure><img src=".gitbook/assets/Designer%20(2).png" alt="Centralized Windows App Management"><figcaption></figcaption></figure>
+
+## Centralized Windows App Management
+
+Take control of Windows App settings with centralized management through Microsoft Intune.
+{% endupdate %}
+{% endupdates %}
