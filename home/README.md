@@ -36,6 +36,7 @@ Read more about me and follow my activities on my [**MVP profile.**](https://mvp
 
 ## Latest Posts
 
+{% updates format="full" %}
 {% update date="2026-11-12" %}
 <figure><img src=".gitbook/assets/Designer (2).png" alt="Centralized Windows App Management"><figcaption></figcaption></figure>
 
