@@ -56,4 +56,10 @@ This is a cookie test!
 
 The is the dog test!
 {% endupdate %}
+
+{% update date="2026-11-13" %}
+## I love cats
+
+![](https://images.unsplash.com/photo-1592194996308-7b43878e84a6?crop=entropy\&cs=srgb\&fm=jpg\&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxDYXRzfGVufDB8fHx8MTc5NDU1ODQzMXww\&ixlib=rb-4.1.0\&q=85) The is the cat test!
+{% endupdate %}
 {% endupdates %}
