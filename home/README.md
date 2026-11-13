@@ -35,11 +35,3 @@ Read more about me and follow my activities on my [**MVP profile.**](https://mvp
 <figure><img src=".gitbook/assets/image (2).png" alt="" width="375"><figcaption><p>Modern Endpoint Management | Speaker 2022 - 2024</p></figcaption></figure>
 
 ## Latest Posts
-
-{% updates format="full" %}
-{% update date="2026-11-13" %}
-## Test 1
-
-This is a test!
-{% endupdate %}
-{% endupdates %}

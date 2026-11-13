@@ -150,11 +150,3 @@ I also provided step-by-step instructions for creating a new configuration profi
 
 That’s it, folks. Happy testing, and have fun exploring 🤓\
 If you have any questions regarding this topic, please feel free to reach out to me.
-
-{% updates format="full" %}
-{% update date="2026-11-13" %}
-## Centralized Windows App Management
-
-This is a test!
-{% endupdate %}
-{% endupdates %}
