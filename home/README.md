@@ -40,7 +40,7 @@ Read more about me and follow my activities on my [**MVP profile.**](https://mvp
 {% update date="2026-11-12" %}
 ## ![](https://images.unsplash.com/photo-1683322499436-f4383dd59f5a?crop=entropy\&cs=srgb\&fm=jpg\&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw0fHxJVHxlbnwwfHx8fDE3OTQ1NTc4Njd8MA\&ixlib=rb-4.1.0\&q=85) I love IT!
 
-Take control of Windows App settings with centralized management through Microsoft Intune.
+This is a IT test!
 {% endupdate %}
 
 {% update date="2026-11-13" %}
