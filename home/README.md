@@ -36,9 +36,9 @@ Read more about me and follow my activities on my [**MVP profile.**](https://mvp
 
 ## Latest Posts
 
-{% updates format="full" %}
 {% update date="2026-11-12" %}
 <figure><img src=".gitbook/assets/Designer (2).png" alt="Centralized Windows App Management"><figcaption></figcaption></figure>
+
 ## Centralized Windows App Management
 
 Take control of Windows App settings with centralized management through Microsoft Intune.
